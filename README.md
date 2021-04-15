@@ -5,9 +5,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:matheusfilizzola98@gmail.com)
 
    ## About me
-   • I am a student of Information Systems at Universidade Rural da Amazônia
-   • Indie Game Developer
-   • I'm from Brazil
+   - I'm from Brazil 🇧🇷, specifically in Belém do Pará
+   - I am a student of Information Systems 💻 at Universidade Rural da Amazônia
+   - Indie Game Developer 🎮👾
+   
+   ## I am currently studying
+   - [![Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
    
    
 
