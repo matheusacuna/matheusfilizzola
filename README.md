@@ -7,7 +7,7 @@
    - I'm from Brazil, specifically in Belém do Pará
    - I'm a student of Information Systems 💻 at [Universidade Federal Rural da Amazônia](https://agildesenvolvimento.com/)
    - I work as an IT Management Intern at [Ágil Desenvolvimento de Sistemas](https://agildesenvolvimento.com/)
-   - Indie Game Developer 👾
+   - Indie Game Developer 🎮👨‍💻
    
    #### My passions 🤩
    - 🕹 Games
