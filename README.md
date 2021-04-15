@@ -5,12 +5,26 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:matheusfilizzola98@gmail.com)
 
    ## About me
-   - I'm from Brazil 🇧🇷, specifically in Belém do Pará
-   - I am a student of Information Systems 💻 at Universidade Rural da Amazônia
-   - Indie Game Developer 🎮👾
+   - I'm from Brazil, specifically in Belém do Pará
+   - I am a student of Information Systems 💻 at Universidade Federal Rural da Amazônia
+   - Indie Game Developer 👾
    
-   ## I am currently studying
-   - [![Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
+   #### My passions 🤩
+   - 🕹 Games
+   
+   - 🏐 Volleyball
+   
+   - 🍔🍟 Hamburger and French Fries
+   
+   - 🎧 Listen to music
+
+
+
+   
+   ## I've been studying
+   <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/> <img alt="C#"   src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+   
+   
    
    
 
