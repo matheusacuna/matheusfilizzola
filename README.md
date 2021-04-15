@@ -4,7 +4,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfilizzola/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:matheusfilizzola98@gmail.com)
 
-   # About me
+   ## About me
+   • I am a student of Information Systems at Universidade Rural da Amazônia
+   • Indie Game Developer
+   • I'm from Brazil
    
    
 
