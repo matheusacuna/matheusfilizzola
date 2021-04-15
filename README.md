@@ -5,7 +5,7 @@
 
    ## About me
    - I'm from Brazil, specifically in Belém do Pará
-   - I am a student of Information Systems 💻 at Universidade Federal Rural da Amazônia
+   - I'm a student of Information Systems 💻 at Universidade Federal Rural da Amazônia
    - I work as an IT Management Intern at [Ágil Desenvolvimento de Sistemas](https://agildesenvolvimento.com/)
    - Indie Game Developer 👾
    
