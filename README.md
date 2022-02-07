@@ -6,7 +6,7 @@
    ## About me
    - I'm from Brazil, specifically in Belém do Pará
    - I'm a student of Information Systems 💻 at [Universidade Federal Rural da Amazônia](https://agildesenvolvimento.com/)
-   - I work as Unity Developer Intern at Altikids
+   - I work as Unity Developer
    - Indie Game Developer 🎮👨‍💻
    
    #### My passions 🤩
