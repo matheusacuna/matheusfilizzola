@@ -5,8 +5,8 @@
 
    ## About me
    - I'm from Brazil, specifically in Belém do Pará
-   - I'm a student of Information Systems 💻 at [Universidade Federal Rural da Amazônia](https://agildesenvolvimento.com/)
-   - I work as Unity Developer
+   - I have a bachelor's degree in information systems💻 at [Universidade Federal Rural da Amazônia]
+   - I work as Unity Developer into JoyJog Studio.(http://www.joyjogstudio.com.br/index.html)
    - Indie Game Developer 🎮👨‍💻
    
    #### My passions 🤩
@@ -17,6 +17,10 @@
    - 🍔🍟 Hamburger and French Fries
    
    - 🎧 Listen to music
+   
+   - ✈ Travel
+   
+   - 
 
 
 
